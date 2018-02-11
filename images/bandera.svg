@@ -1,0 +1,24 @@
+<svg width="596" height="66" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="68" width="598" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_5" height="0" width="0.465116" y="75.581395" x="61.860465" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="#000" fill="none"/>
+  <rect stroke="#000" id="svg_14" height="182.313289" width="200.006148" y="-3.542801" x="-1.239944" stroke-opacity="null" stroke-width="0" fill="#e3f774"/>
+  <rect stroke="#000" id="svg_16" height="105" width="200.006148" y="0.303471" x="199" stroke-opacity="null" stroke-width="0" fill="#5160e8"/>
+  <rect stroke="#000" id="svg_17" height="177.697769" width="200.006148" y="-0.465783" x="398.772355" stroke-opacity="null" stroke-width="0" fill="#e03a45"/>
+  <path id="svg_18" d="m207.646909,49.244999l8.227274,0l2.542291,-8.814891l2.542292,8.814891l8.227272,0l-6.655992,5.44784l2.542422,8.814891l-6.655995,-5.447988l-6.655993,5.447988l2.542423,-8.814891l-6.655994,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path id="svg_20" d="m227.647523,31.552148l8.227274,0l2.542291,-8.814892l2.542292,8.814892l8.227272,0l-6.655992,5.44784l2.542423,8.814891l-6.655995,-5.447989l-6.655994,5.447989l2.542424,-8.814891l-6.655995,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path id="svg_21" d="m257.648444,16.936314l8.227274,0l2.542291,-8.814892l2.542292,8.814892l8.227272,0l-6.655992,5.44784l2.542423,8.814891l-6.655995,-5.447989l-6.655994,5.447989l2.542424,-8.814891l-6.655995,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path id="svg_22" d="m289.187874,10.782278l8.227274,0l2.542291,-8.814892l2.542292,8.814892l8.227272,0l-6.655992,5.44784l2.542423,8.814891l-6.655995,-5.447989l-6.655994,5.447989l2.542424,-8.814891l-6.655995,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path id="svg_23" d="m346.881956,30.782893l8.227274,0l2.542291,-8.814892l2.542292,8.814892l8.227272,0l-6.655992,5.44784l2.542423,8.814891l-6.655995,-5.447989l-6.655994,5.447989l2.542424,-8.814891l-6.655995,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path id="svg_24" d="m321.496561,16.936314l8.227274,0l2.542291,-8.814892l2.542292,8.814892l8.227272,0l-6.655992,5.44784l2.542423,8.814891l-6.655995,-5.447989l-6.655994,5.447989l2.542424,-8.814891l-6.655995,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path id="svg_25" d="m369.959588,49.245l8.227274,0l2.542291,-8.814892l2.542292,8.814892l8.227272,0l-6.655992,5.44784l2.542423,8.814891l-6.655995,-5.447989l-6.655994,5.447989l2.542424,-8.814891l-6.655995,-5.44784z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+ </g>
+</svg>
